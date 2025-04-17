@@ -1,0 +1,9 @@
+# .gitignore
+config.conf
+logs/
+*.log
+.idea/
+.venv/
+__pycache__/
+*.pyc
+data/output/*.csv
